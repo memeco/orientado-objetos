@@ -1,0 +1,15 @@
+C:\Users\Daniel\CarroDev\bin\Debug\net8.0\CarroDev.exe
+C:\Users\Daniel\CarroDev\bin\Debug\net8.0\CarroDev.deps.json
+C:\Users\Daniel\CarroDev\bin\Debug\net8.0\CarroDev.runtimeconfig.json
+C:\Users\Daniel\CarroDev\bin\Debug\net8.0\CarroDev.dll
+C:\Users\Daniel\CarroDev\bin\Debug\net8.0\CarroDev.pdb
+C:\Users\Daniel\CarroDev\obj\Debug\net8.0\CarroDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\CarroDev\obj\Debug\net8.0\CarroDev.AssemblyInfoInputs.cache
+C:\Users\Daniel\CarroDev\obj\Debug\net8.0\CarroDev.AssemblyInfo.cs
+C:\Users\Daniel\CarroDev\obj\Debug\net8.0\CarroDev.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\CarroDev\obj\Debug\net8.0\CarroDev.sourcelink.json
+C:\Users\Daniel\CarroDev\obj\Debug\net8.0\CarroDev.dll
+C:\Users\Daniel\CarroDev\obj\Debug\net8.0\refint\CarroDev.dll
+C:\Users\Daniel\CarroDev\obj\Debug\net8.0\CarroDev.pdb
+C:\Users\Daniel\CarroDev\obj\Debug\net8.0\CarroDev.genruntimeconfig.cache
+C:\Users\Daniel\CarroDev\obj\Debug\net8.0\ref\CarroDev.dll
